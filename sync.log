@@ -1,0 +1,8 @@
+Sat Sep  7 02:00:01 AEST 2024
+External 1 is mounted
+External 2 is not mounted
+External 3 is mounted so copy to external 3
+sending incremental file list
+
+sent 3,519,450 bytes  received 13,370 bytes  47,420.40 bytes/sec
+total size is 2,657,795,612,973  speedup is 752,315.60
