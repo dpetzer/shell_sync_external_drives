@@ -1,0 +1,2 @@
+#Run backup.sh twice per day, at 2AM and 2PM, output the result to a log file.
+0 14,2 * * * /usr/local/bin/backup.sh > /tmp/sync.log
