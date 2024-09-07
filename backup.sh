@@ -13,7 +13,7 @@ then
         echo "External 2 is mounted so copy to external 2"
         sudo rsync -av --delete /media/external1/ /media/external2
 else
-        echo "External 2 is not mounted - copy from ext 2"
+        echo "External 2 is not mounted"
 fi 
 
 if mount -v | grep /media/external3 > /dev/null;
